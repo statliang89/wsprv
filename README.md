@@ -11,3 +11,6 @@ For Windows users, you also need to install Rtools from https://cran.r-project.o
 
 library(devtools) <br>
 install_github("statliang89/wsprv") <br>
+
+# Reference
+Liang X, Sun H. Weighted Selection Probability to Prioritize Susceptible Rare Variants in Multi-Phenotype Association Studies with Application to a Soybean Genetic Data Set. J Comput Biol. 2023;30(10):1075-1088.
